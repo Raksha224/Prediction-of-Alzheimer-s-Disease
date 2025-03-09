@@ -1,1 +1,1 @@
-# rediction-of-Alzheimer-s-Disease
+# Prediction-of-Alzheimer-s-Disease
